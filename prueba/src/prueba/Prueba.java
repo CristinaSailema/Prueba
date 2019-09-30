@@ -15,7 +15,7 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-<<<<<<< Upstream, based on origin/master
+
         // hola amiguitos
         //cambio
         //cambio 2
@@ -27,6 +27,7 @@ public class Prueba {
         //Si estan los demas comentarios.....!!!!
         
         //olaaaaaaa
+        //sii hola 
     }
         
 }
